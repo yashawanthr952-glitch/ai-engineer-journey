@@ -2,10 +2,16 @@
 
 Hi, I'm Yashwanth.
 
-This repository documents my journey to becoming an AI Engineer.
+This repository documents my journey to becoming an AI/ML Engineer.
 
-## Progress
-- Day 1: Python Basics Practice
+## 📌 Current Focus
+- Python Basics
+- Problem Solving
+- Git & GitHub
+
+## 📂 Structure
+- day 1.py
 
 ---
+
 Consistency > Motivation.
