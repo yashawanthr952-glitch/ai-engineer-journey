@@ -1,0 +1,4 @@
+Have to solve this problems :
+Write a function that takes list and returns dictionary of frequency.
+
+Write a function that checks if two strings are anagrams.
