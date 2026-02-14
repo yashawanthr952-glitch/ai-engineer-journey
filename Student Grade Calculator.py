@@ -1,34 +1,35 @@
 #Student Grade Calculator
+class student:
+    def __init__(self,name,maths,english,science):
+        self.name=name
+        self.maths=maths
+        self.english=english
+        self.science=science
 
-students = {}
+    def grade(self):
+        marks=[self.maths,self.science,self.english]
+        avg =sum(marks)/len(marks) 
+        if avg >90:
+            grade ="A"     # 90+ → A
+        elif avg>75:
+            grade="B"     #75+ → B
+        elif avg>60:
+            grade="C"     #60+ → C
+        else:
+            grade="D"    #Below → D
+        print(f'{self.name} has a {grade} grade')
+        return grade
+    
 
-n = int(input("How many students? "))  #Allow multiple students
+s=student("jhon",95,59,32)
+s2=student("dia",95,95,80)
 
-for _ in range(n):
-    #Input student name
-    name=input("name of student:")    #Input marks of 3 subjects
-    maths= int(input("enter maths marks:"))
-    science= int(input("enter science marks:"))
-    english= int(input("enter english marks:"))#Calculate average
-    marks=[maths,english,science]
-    average =sum(marks)/len(marks)   #Assign grade:
-    if average >90:
-        grade ="A"     # 90+ → A
-    elif average>75:
-        grade="B"     #75+ → B
-    elif average>60:
-        grade="C"     #60+ → C
-    else:
-        grade="D"    #Below → D
+print(s.grade())
+print(s2.grade())
 
-    students[name] = {
-        "maths": maths,
-        "science": science,
-        "english": english,
-        "average": average,
-        "grade": grade
-     }
+    
+    
 
-print("\nAll Students Data:")
-print(students)
+        
 
+    
