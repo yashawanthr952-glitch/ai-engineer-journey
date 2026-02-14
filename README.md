@@ -1,40 +1,58 @@
-# 🚀 AI Engineer Journey
+# Hi, I'm Yashwanth 👋
 
-This repository documents my daily progress in becoming a strong AI / ML Engineer.
-
----
-
-## 📅 Progress Log
-
-### ✅ Day 1
-- Basic Python practice
-- Variables, loops, conditions
-- First practice file
-
-### ✅ Day 2
-- Deep understanding of Functions
-- Scope (Local & Global)
-- Lambda functions
-- Logic problems (Lists, Dictionaries, Strings)
-- Flatten nested list implementation
-- Built: Student Grade Calculator (CLI)
+🎓 Electrical Engineering Student  
+📊 Aspiring Data Analyst / ML Engineer  
+🚀 Building real-world projects for internships & placements  
 
 ---
 
-## 📂 Project Structure
+## 🚀 Currently Learning
 
-- `day 1.py` → Basic Python practice
-- `day 2.py` → Functions & logic problems
-- `Student Grade Calculator.py` → Mini CLI project
-
----
-
-## 🎯 Goal
-Become job-ready AI Engineer by March 2027.
+- Python (Core + OOP)
+- Data Analysis (Pandas, NumPy)
+- SQL
+- Problem Solving & Logic Building
+- Git & GitHub Workflow
 
 ---
 
-## 🛠 Tech Stack
-- Python
-- Git & GitHub
-- VS Code
+## 📌 What I'm Working On
+
+- Writing clean Python code using OOP
+- Building small real-world systems (ATM, Grade Calculator, etc.)
+- Improving logical thinking and debugging skills
+- Documenting daily learning progress
+
+---
+
+## 📂 Projects
+
+### 🧠 Python & OOP Practice
+- Student Grade Calculator (OOP-based)
+- ATM Simulation System
+- Logic Practice (Lists, Dictionaries, Strings)
+- Functions & Scope Exercises
+
+(More structured projects coming soon 🚀)
+
+---
+
+## 🎯 2026 Goals
+
+- Strong foundation in Data Analysis
+- Build 5+ portfolio-ready projects
+- Secure a Data/ML internship
+- Master problem-solving fundamentals
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/yashwanth-reddy-292998272
+- Email: yashawanthr952@gmail.com
+
+---
+
+⭐ Consistency > Motivation  
+📈 Learning daily. Building daily. Improving daily.
+
