@@ -21,15 +21,13 @@ class student:
         return grade
     
 
+
 s=student("jhon",95,59,32)
 s2=student("dia",95,95,80)
 
-print(s.grade())
-print(s2.grade())
+a=print(s.grade())
+b=print(s2.grade())
 
     
-    
-
-        
 
     
