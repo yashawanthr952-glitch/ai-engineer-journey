@@ -1,68 +1,130 @@
-Hi, I'm Yashwanth 👋
+👋 Hi, I'm Yashwanth
 
-🎓 Electrical Engineering Student
-📊 Aspiring Data Analyst / ML Engineer
-🚀 Building practical systems & data-driven projects
+🎓 Electrical Engineering Student (VJTI)
+🤖 Aspiring AI / ML Engineer
+📊 Building strong foundations in Python, data systems & problem solving
+🚀 Focused on becoming industry-ready before graduation (2027)
 
 🚀 About Me
 
-I’m currently building a strong foundation in Python, data analysis, and structured problem-solving.
-My focus is on writing clean, scalable code and developing real-world project experience before graduation.
+I’m currently focused on mastering core programming fundamentals before scaling into advanced AI/ML systems.
 
-I believe in daily execution, structured learning, and long-term skill compounding.
+My approach:
+
+Deep understanding > surface-level learning
+
+Logic building before frameworks
+
+Structured daily execution
+
+Portfolio-driven growth
+
+I’m building clean, modular systems and strengthening algorithmic thinking to prepare for internships and competitive placements.
 
 🛠 Technical Skills (Actively Developing)
 
-Python (Core, OOP, Data Structures)
+Core Programming
 
-Pandas & NumPy
+Python (Core, OOP, Functions, Scope)
 
-SQL
+Data Structures (Lists, Dictionaries, Strings, Logic Building)
 
-Problem Solving & Algorithmic Thinking
+Algorithmic Thinking
 
-Git & GitHub Workflow
+Data & Tools
+
+Pandas
+
+NumPy
+
+SQL (Foundations)
+
+Git & GitHub (Version Control)
+
+Currently Strengthening
+
+Debugging skills
+
+Writing optimized logic (O(n) thinking)
+
+Clean code structure
+
+Problem-solving consistency
 
 📂 Projects
-🧠 Python Systems & Logic Practice
+🧠 Python Systems & Logic Development
 
-Student Grade Calculator (OOP-based, multi-student support, menu-driven system)
+Student Grade Management System
+
+OOP-based
+
+Multi-student support
+
+Dictionary-driven subject storage
+
+Modular functions
+
+Menu-driven structure
 
 ATM Simulation System
 
-List & Dictionary Logic Challenges
+Authentication logic
 
-Function & Scope Deep Practice
+Transaction handling
 
-Currently focusing on strengthening fundamentals before scaling to larger ML projects.
+Clean function separation
 
-(More structured data & ML projects coming soon 🚀)
+Logic Practice Repository
 
-📌 Current Focus
+Two Sum (Brute + Optimized)
 
-Writing cleaner, modular Python code
+Move Zeros (Two-pointer approach)
 
-Strengthening debugging & logic skills
+Missing Number (Math & XOR)
 
-Building portfolio-ready data analysis projects
+Dictionary frequency problems
 
-Documenting consistent daily learning
+String processing challenges
 
-🎯 2026 Goals
+Nested loop matrix problems
 
-Build 5+ high-quality portfolio projects
+Currently focused on mastering core systems before scaling into ML pipelines.
 
-Gain strong practical understanding of data analysis
+📌 Current Focus (Feb 2026)
 
-Secure a Data / ML internship
+Advanced Python problem solving (medium-level daily)
 
-Develop strong problem-solving fundamentals
+Writing optimized code (reducing O(n²) habits)
+
+Strengthening data manipulation using Pandas
+
+Building portfolio-ready data analysis mini-projects
+
+Preparing for AI/ML internship opportunities
+
+🎯 2026–2027 Roadmap
+
+Build 5–8 high-quality AI/Data projects
+
+Master data analysis & EDA
+
+Learn ML fundamentals properly (not copy-paste)
+
+Contribute to GitHub consistently
+
+Secure strong Data / AI internship before final year
+
+Become job-ready ML Engineer by graduation
 
 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/yashwanth-reddy-292998272
+LinkedIn:
+https://www.linkedin.com/in/yashwanth-reddy-292998272
 
-Email: yashawanthr952@gmail.com
+Email:
+yashawanthr952@gmail.com
 
 ⭐ Consistency > Motivation
-📈 Learning daily. Building daily. Improving daily.
+📈 Building skills daily.
+🧠 Logic first. Frameworks later.
+🚀 Long-term compounding mindset.
