@@ -1,12 +1,12 @@
 #Student Grade Calculator
 class student:
-    def __init__(self,name,maths,english,science):
+    def __init__(self,name,maths,english,science):   #defining fucion
         self.name=name
         self.maths=maths
         self.english=english
         self.science=science
 
-    def grade(self):
+    def grade(self):                                  #defining grade function 
         marks=[self.maths,self.science,self.english]
         avg =sum(marks)/len(marks) 
         if avg >90:
@@ -22,10 +22,10 @@ class student:
     
 
 
-s=student("jhon",95,59,32)
+s=student("jhon",95,59,32)             #calll the fucction
 s2=student("dia",95,95,80)
 
-a=print(s.grade())
+a=print(s.grade())                     #calling the fuction
 b=print(s2.grade())
 
     
