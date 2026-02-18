@@ -131,14 +131,3 @@ for i in sorted_data:
 
 print(groupe)
 
-
-dept_salar={}
-for i in groupe.items():
-    total
-    salary=i[2]
-    if dept in dept_salar:
-        dept_salar[dept]+=salary
-    else:
-        dept_salar[dept]=salary
-
-print(dept_salar)

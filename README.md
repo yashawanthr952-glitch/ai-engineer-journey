@@ -51,11 +51,6 @@ I believe in consistent execution, structured learning, and long-term skill comp
 - Implemented frequency counters and custom sorting
 - Practiced nested list processing & dictionary aggregation
 
-### 🔹 2. Factor-Based Equity Strategy (In Progress)
-- Built momentum & volatility-based stock strategy
-- Used Pandas & NumPy for data manipulation
-- Studied portfolio construction & backtesting
-- Calculated Sharpe ratio & maximum drawdown
 
 (More projects coming soon...)
 
@@ -72,8 +67,8 @@ I believe in consistent execution, structured learning, and long-term skill comp
 
 ## 📬 Connect With Me
 
-- LinkedIn: (Add your link here)
-- Email: (Optional)
+-LinkedIn: https://www.linkedin.com/in/yashwanth-reddy-292998272
+-Email: yashawanthr952@gmail.com
 
 ---
 

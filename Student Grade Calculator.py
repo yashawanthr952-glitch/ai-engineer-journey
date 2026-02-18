@@ -1,14 +1,20 @@
 #Student Grade Calculator
-class student:
+class Student:
     def __init__(self,name,maths,english,science):   #defining fucion
         self.name=name
-        self.maths=maths
-        self.english=english
-        self.science=science
+        self.maths=self.vadlide_marks(maths)
+        self.english=self.vadlide_marks(english)
+        self.science=self.vadlide_marks(science)
+
+    def vadlide_marks(self,marks):
+        if not isinstance(marks,(int,float)):
+            raise ValueError ("enter a number")
+        if marks<0 or marks>100:
+            raise ValueError("marks not in range ")
+        return marks
 
     def grade(self):                                  #defining grade function 
-        marks=[self.maths,self.science,self.english]
-        avg =sum(marks)/len(marks) 
+        avg = (self.maths + self.english + self.science) / 3
         if avg >90:
             grade ="A"     # 90+ → A
         elif avg>75:
@@ -17,17 +23,15 @@ class student:
             grade="C"     #60+ → C
         else:
             grade="D"    #Below → D
-        print(f'{self.name} has a {grade} grade')
         return grade
     
 
+try:
+    s=Student("jhon",95,59,32)             #calll the fucction
+    s2=Student("dia",95,95,80)
 
-s=student("jhon",95,59,32)             #calll the fucction
-s2=student("dia",95,95,80)
+    print(f'{s.name} has a grade {s.grade()}')                     #calling the fuction
+    print(f'{s2.name} has a grade {s2.grade()}')    
 
-a=print(s.grade())                     #calling the fuction
-b=print(s2.grade())
-
-    
-
-    
+except ValueError as e:
+    print("Error:", e)
